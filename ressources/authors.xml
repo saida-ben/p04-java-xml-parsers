@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Base de donnees d'auteurs -->
+<authors>
+
+	<author id="101">
+		<name>John Backus</name>
+		<birthday day="3" month="12" year="1924"/>
+		<country>USA</country>
+		<technology>Fortran</technology>
+	</author>
+	
+	<author id="102">
+		<name>Denni Ritchie</name>
+		<birthday day="9" month="9" year="1941"/>
+		<country></country>
+		<technology>Langage c</technology>
+	</author>
+	
+	<author id="103">
+		<name>Bjarne Stroustrup</name>
+		<birthday day="30" month="9" year="1941"/>
+		<country>DANMARK</country>
+		<technology>Langage C++</technology>
+	</author>
+	
+	<author id="104">
+		<name>Jmaes Gosling</name>
+		<birthday day="19" month="5" year="1955"/>
+		<country>Canada</country>
+		<technology>JAVA</technology>
+	</author>
+	
+	<author id="105">
+		<name>Tim Berners-Lee</name>
+		<birthday day="8" month="6" year="1955"/>
+		<country>Rayaume-Uni</country>
+		<technology>Web,HTML</technology>
+	</author>
+	
+	<author id="106">
+		<name>Brenden Eich</name>
+		<birthday day="4" month="7" year="1961"/>
+		<country>USA</country>
+		<technology>JavaScript</technology>
+	</author>
+	
+	<author id="107">
+		<name>Erich Gamma</name>
+		<birthday day="13" month="3" year="1961"/>
+		<country>Suisse</country>
+		<technology>Eclipse,JUnit,Design Patterns</technology>
+	</author>
+</authors>
